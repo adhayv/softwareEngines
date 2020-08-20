@@ -1,4 +1,7 @@
 language: node_js
 node_js: 
-  - 11.6.0
+  - 12.18.3
 cache: npm
+
+install:
+  -npm ci
