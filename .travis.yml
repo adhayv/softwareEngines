@@ -1,3 +1,4 @@
 language: node_js
-node_js:
-  - 7
+rvm:
+  - 2.2
+  node_js
